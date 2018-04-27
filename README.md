@@ -3,6 +3,8 @@ Bootstrap 4 Shortcodes for WordPress
 
 ![WordPress Rating](https://img.shields.io/wordpress/plugin/r/bootstrap-4-shortcodes.svg) ![WordPress Downloads](https://img.shields.io/wordpress/plugin/dt/bootstrap-4-shortcodes.svg)
 
+**Deprecation notice**: this project is based on a random alpha version of Bootstrap 4; since then I stopped using shortcodes replacing them to a more structured way of building (i.e. ACF Flexible Content) so this plugin WILL NOT be updated anymore. [You can find an up-to-date version developed by the original coder](https://github.com/MWDelaney/bootstrap-4-shortcodes), though!
+
 WordPress plugin that provides shortcodes for easier use of the Bootstrap styles and components in your content.
 
 **Bootstrap 4 Shortcodes for WordPress** creates a simple, out of the way button just above the WordPress TinyMCE editor (next to the "Add Media" button) which pops up the plugin's documentation and shortcode examples for reference and handy "Insert Example" links to send the example shortcodes straight to the editor. There are no additional TinyMCE buttons to clutter up your screen, just great, easy to use shortcodes!
